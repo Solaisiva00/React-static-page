@@ -2,8 +2,7 @@
 
 # \[React static page\]
 
-
-###live demo
+#### live demo ([🎉👉 Live here](https://solaisiva00.github.io/React-static-page/) )
 
 
 Front End application oriented to ...
@@ -11,7 +10,7 @@ Front End application oriented to ...
 ## Technologies used
 
 - [![reactlogo](https://api.iconify.design/logos:react.svg)](https://reactjs.org/) single page application
--[vite](https://vitejs.dev/)
+- [vite](https://vitejs.dev/) templete bundle tool
 
 ### screenshot
 
