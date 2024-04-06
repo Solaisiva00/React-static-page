@@ -11,8 +11,7 @@ Front End application oriented to ...
 ## Technologies used
 
 - [![reactlogo](https://api.iconify.design/logos:react.svg)](https://reactjs.org/) single page application
--[![vitelogo](https://github.com/Solaisiva00/React-static-page/assets/165774432/616b2b46-56e8-4171-b324-f981daa412dc)
-)](https://vitejs.dev/)
+-[vite](https://vitejs.dev/)
 
 ### screenshot
 
@@ -128,6 +127,5 @@ Run the command `npm run deploy` to deploy the application. This command will cr
 
 
 
-This app was tailwind based on the template provided by [![image](https://github.com/Solaisiva00/React-static-page/assets/165774432/cc62cff6-b43e-4aa5-8aab-387f68d52995)
-](https://vitejs.dev/)
+This app was tailwind based on the template provided by [vite](https://vitejs.dev/)
 
