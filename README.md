@@ -10,7 +10,7 @@ Front End application oriented to ...
 ## Technologies used
 
 - [![reactlogo](https://api.iconify.design/logos:react.svg)](https://reactjs.org/) single page application
-- [vite](https://vitejs.dev/) templete bundle tool
+- [<img width="20" height="20" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>](https://vitejs.dev/) templete bundle tool
 
 ### screenshot
 
@@ -122,9 +122,11 @@ export default defineConfig({
 Run the command `npm run deploy` to deploy the application. This command will create a new branch named gh-pages in your project’s GitHub repository. You may need to set a source, which you can do under the GitHub Pages option in your repository’s settings. Set it to `gh-pages` branch:
 
 ![image](https://github.com/Solaisiva00/React-static-page/assets/165774432/469dea65-b034-4f5f-a0ea-bf872303e86b)
+<br>
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 
 
-This app was tailwind based on the template provided by [vite](https://vitejs.dev/)
+This app was tailwind based on the template provided by [<img width="28" height="28" src="https://img.icons8.com/fluency/48/vite.png" alt="vite"/>](https://vitejs.dev/)
 
