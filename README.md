@@ -3,12 +3,16 @@
 # \[React static page\]
 
 
+###live demo
+
+
 Front End application oriented to ...
 
 ## Technologies used
 
 - [![reactlogo](https://api.iconify.design/logos:react.svg)](https://reactjs.org/) single page application
--[![vitelogo]()](https://vitejs.dev/)
+-[![vitelogo](https://github.com/Solaisiva00/React-static-page/assets/165774432/616b2b46-56e8-4171-b324-f981daa412dc)
+)](https://vitejs.dev/)
 
 ### screenshot
 
@@ -90,12 +94,12 @@ npm install --save gh-pages
 In your package.json, add the following scripts:
 ```json
 "scripts": {
-+   "predeploy": "npm run build",
-+   "deploy": "gh-pages -d dist",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+++   "predeploy": "npm run build",
+++   "deploy": "gh-pages -d dist",
+     "start": "react-scripts start",
+     "build": "react-scripts build",
+     "test": "react-scripts test",
+     "eject": "react-scripts eject"
 }
 ```
 
@@ -124,4 +128,6 @@ Run the command `npm run deploy` to deploy the application. This command will cr
 
 
 
-This app was tailwind based on the template provided by [`vite`](https://vitejs.dev/)
+This app was tailwind based on the template provided by [![image](https://github.com/Solaisiva00/React-static-page/assets/165774432/cc62cff6-b43e-4aa5-8aab-387f68d52995)
+](https://vitejs.dev/)
+
