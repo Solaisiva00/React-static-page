@@ -1,12 +1,20 @@
 import logo from "./react.svg";
-const Navbar = () => {
+import Toggle from "./Toggle";
+const Navbar = (props) => {
+  console.log(props.mode);
   return (
-    <nav className="bg-[#21222A] flex items-center px-8 py-5 justify-between">
+    <nav
+      className={
+        props.mode
+          ? "bg-[#21222A] flex items-center px-8 py-5 justify-between"
+          : "bg-[#fff] flex items-center px-8 py-5 justify-between"
+      }
+    >
       <section className="flex items-center">
         <img src={logo} alt="logo" />
         <h3 className="font-semibold ml-2 text-xl text-[#61DAFB]">ReactFact</h3>
       </section>
-      <h4 className="text-white">React course-project 1</h4>
+      <Toggle change={props.handleToggle} />
     </nav>
   );
 };
