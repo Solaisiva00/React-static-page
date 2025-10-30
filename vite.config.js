@@ -8,6 +8,6 @@ export default defineConfig({
       overlay:false
     }
   },
-  base:"/React-static-page/",
+  base:"./",
   plugins: [react()],
 })
