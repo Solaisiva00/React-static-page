@@ -8,6 +8,6 @@ export default defineConfig({
       overlay:false
     }
   },
-  base:"./",
+  base:"",
   plugins: [react()],
 })
